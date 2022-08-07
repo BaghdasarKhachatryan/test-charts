@@ -79,7 +79,7 @@ export class MyGraphsComponent {
     ];
     this.chart1 = {
       ...this.defaultOptions,
-      id:'first',
+      id:'first-for-github-branch',
       type: "bar",
       stacked: false,
       animations:{
